@@ -74,9 +74,9 @@ The dataset consists of four tables:
 ``` sql/immaculate_njeri_wk6.sql ```
 
 ## Future Improvements
-Build a Power BI or Tableau dashboard on top of this dataset
-Add time-based analysis (hiring trends, salary growth over time)
-Introduce predictive analytics (attrition or salary forecasting)
+- Build a Power BI or Tableau dashboard on top of this dataset
+- Add time-based analysis (hiring trends, salary growth over time)
+- Introduce predictive analytics (attrition or salary forecasting)
 
  ### Author
 Immaculate Chege
